@@ -44,7 +44,7 @@
     "babel-plugin-react-intl": "3.0.1",
     "babel-preset-react-native": "^4.0.1",
     "global": "^4.4.0",
-    "immer": "^4.0.0",
+    "immer": "^8.0.1",
     "immutable": "^4.0.0-rc.12",
     "intl": "1.2.5",
     "lodash": "^4.17.15",
